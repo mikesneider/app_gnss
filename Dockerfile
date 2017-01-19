@@ -50,7 +50,7 @@ WORKDIR /workspace
 
 # From here, we install our app
 
-RUN git clone https://github.com/sandiego206/app_gnss.git
+RUN git clone https://github.com/mikesneider/app_gnss.git
 
 WORKDIR /workspace/app_gnss
 RUN git pull
