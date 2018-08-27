@@ -1,7 +1,8 @@
 # APP GNSS
 
 ## Installation Instructions
-(Python version used: 2.7.15rc1)2.7.15rc1
+(Python version used: 2.7.15rc1)
+
 0. Clone this repository *git clone https://github.com/mikesneider/app_gnss.git*
 
 1. Install opencv using **sudo apt-get install libopencv-dev python-opencv python-tk**
